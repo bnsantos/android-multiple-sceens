@@ -1,0 +1,38 @@
+<resources>
+  <string name="app_name">MultipleScreens</string>
+
+  <string name="lorem_ipsum">Skate ipsum dolor sit amet, crail grab pop shove-it Johnny Rad handplant 50-50 lip nollie pressure flip. Roll-in full pipe tailslide late coper Hugh Bod Boyle mini ramp regular footed. Locals 720 gnar bucket NoMeansNo Japan air trucks hang ten death box. Yeah carve nosepicker backside slap maxwell shoveit nosegrind. Hang-up bone air rails kick-nose axle invert kickturn. Casper bearings goofy footed mute-air nose-bump shinner slob air. Launch ramp baseplate nosegrind street roll-in downhill opposite footed. Flypaper pivot nose grab powerslide bluntslide launch ramp tuna-flip Spanky. Freestyle betty judo air nose bump grab ollie north smith grind. Hanger vert lipslide Andy Takakjian regular footed crooked grind deck fakie. Opposite footed finger flip nose blunt wax full-cab durometer speed wobbles. Bank face plant heel flip Japan air rocket air bluntslide nollie.</string>
+
+  <array name="urls">
+    <item>http://25.media.tumblr.com/tumblr_llkx6zsPFp1qzyqubo1_1280.jpg</item>
+    <item>http://28.media.tumblr.com/tumblr_lz51o2murQ1qdvbl3o1_1280.jpg</item>
+    <item>http://30.media.tumblr.com/tumblr_m0ml4nSHnm1r6b7kmo1_500.jpg</item>
+    <item>http://25.media.tumblr.com/tumblr_m1t2ozFv741roszzyo1_1280.jpg</item>
+    <item>http://25.media.tumblr.com/tumblr_lsejcwmXKB1qzujlpo1_1280.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_m3xustlc3p1qgkai1o1_1280.jpg</item>
+    <item>http://29.media.tumblr.com/tumblr_m1uiq7VhXs1r6b7kmo1_500.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_m4mywvWq0K1qjev1to1_1280.jpg</item>
+    <item>http://26.media.tumblr.com/tumblr_m2z2v4RdPg1qhwmnpo1_1280.jpg</item>
+    <item>http://25.media.tumblr.com/tumblr_lvyv75fkQ11qcxyrro1_500.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_lqhubk5zNP1qbhms5o1_500.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_lzv4nmPjG71qij6yko1_1280.jpg</item>
+    <item>http://26.media.tumblr.com/tumblr_m0w99i25Dv1qzex9io1_1280.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_ljllyjTSPS1qdvbl3o1_400.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_m4pi681JFB1qz4hvyo1_500.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_m3zrhtr6ZD1qd477zo1_500.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_m0xkgpL7Ux1qbe5pxo1_1280.jpg</item>
+    <item>http://25.media.tumblr.com/tumblr_m1snvvKwIZ1qze0hyo1_500.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_ltyp9t0Hcj1qcbjczo1_400.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_m9eu7gwyte1qejbiro1_400.jpg</item>
+    <item>http://29.media.tumblr.com/tumblr_lrj6xfwsj81qbt33io1_1280.jpg</item>
+    <item>http://24.media.tumblr.com/0b54i4YxspvgupxzYQ43Rrn0o1_500.jpg</item>
+    <item>http://26.media.tumblr.com/tumblr_lpfgz7K7TC1qfqa73o1_500.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_m1snv5D57e1qze0hyo1_1280.jpg</item>
+    <item>http://25.media.tumblr.com/tumblr_m06h3tPw5e1r81frto1_500.jpg</item>
+    <item>http://24.media.tumblr.com/tumblr_m5znqkWvO41qi29x4o1_500.jpg</item>
+    <item>http://25.media.tumblr.com/tumblr_lywv1edSf81qb2ejuo1_1280.jpg</item>
+    <item>http://30.media.tumblr.com/tumblr_m0r69jW0Xy1qbhms5o1_500.jpg</item>
+    <item>http://29.media.tumblr.com/tumblr_m1ujd2wvTx1r6b7kmo1_500.jpg</item>
+    <item>http://25.media.tumblr.com/tumblr_m17inuIeSk1r32pdno1_400.jpg</item>
+  </array>
+</resources>
