@@ -3,7 +3,7 @@ package com.example.bruno.multiple.screens;
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.GridLayoutManager;
 
 import com.example.bruno.multiple.screens.databinding.ActivityMainBinding;
 
@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     setSupportActionBar(binding.myToolbar);
 
-    binding.recyclerView.setLayoutManager(new LinearLayoutManager(this));
+    binding.recyclerView.setLayoutManager(new GridLayoutManager(this, getResources().getInteger(R.integer.columns)));
     binding.recyclerView.setAdapter(new Adapter(getResources().getStringArray(R.array.urls)));
   }
 }
